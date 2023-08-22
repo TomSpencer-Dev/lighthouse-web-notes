@@ -9,6 +9,6 @@ To help you figure out how to use `hunbry` and `availableTime` inside your funct
 ```javascript
 function whatToDoForLunch(hungry, availableTime) {
   console.log("hungry is", hungry);
-  consle.log("availableTime is", availableTime);
+  console.log("availableTime is", availableTime);
 }
 ```
