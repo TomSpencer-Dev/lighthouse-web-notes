@@ -1,1 +1,1 @@
-# [Tom Spencer]'s Notes
+# Tom Spencer's Notes
